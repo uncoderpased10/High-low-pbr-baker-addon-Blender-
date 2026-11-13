@@ -1,4 +1,4 @@
-# [Addon Name] — High-to-Low Poly Baker for Blender
+#  — High-to-Low Poly Baker for Blender
 
 A lightweight, workflow-focused Blender add-on designed to simplify and speed up **High-to-Low Poly texture baking** in Cycles. Instead of manually creating image textures, wiring unconnected shader nodes, and toggling bake settings for every map, this add-on handles the setup from a single panel in the 3D Viewport.
 
