@@ -1,0 +1,28 @@
+schema_version = "1.0.0"
+
+id = "high_low_pbr_baker_pro"
+version = "1.0.2"
+name = "High-Low PBR Baker Pro"
+tagline = "Zero-error 1-click High-to-Low Poly PBR baker with BVH Auto-Cage & Crash-Shield for Blender 5.2"
+maintainer = "Senior Blender Tools Studio"
+type = "add-on"
+
+blender_version_min = "4.5.0"
+
+license = [
+  "SPDX:GPL-3.0-or-later",
+]
+
+copyright = [
+  "2026 Senior Blender Tools Studio",
+]
+
+tags = [
+  "Bake",
+  "Material",
+  "Mesh",
+  "Pipeline",
+]
+
+[permissions]
+files = "Save baked PBR texture maps to disk next to your .blend file or chosen output directory"
